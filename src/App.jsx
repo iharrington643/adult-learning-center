@@ -7,7 +7,7 @@ import './App.css'
 const App = () => {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Adult Learning Center</h1>
+      <h1 className="text-3xl font-bold">Adult Learning Center</h1>
     </>
   )
 }
